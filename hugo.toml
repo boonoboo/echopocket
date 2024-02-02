@@ -1,0 +1,4 @@
+baseURL = 'https://blog.boonoboo.xyz/'
+languageCode = 'en-us'
+title = 'The echo pocket'
+theme = 'PaperMod'
