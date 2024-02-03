@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: false
 ---
 
-Tags: pedal
-
 ## Info
 
 Original name: Zvex Fuzz Factory

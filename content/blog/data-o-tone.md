@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: false
 ---
 
-Tags: pedal
-
 This electric keyboard was an impulse buy that I hoped could mark my humble beginning into circuit bending. It was just 75 kr. (~10 EUR), looks vintage and has just a few simple controls, perfect for doing a pitch bend or adding an adjustable amplifier.
 
 It was nearly impossible for me to find any information on the keyboard. The brand seems to be "KE Tronic", but searching for this name reveals nothing. Searching for the model name, "Data-O-Tone" doesn't yield any results either, except the name "Model 810".

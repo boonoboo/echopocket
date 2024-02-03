@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: false
 ---
 
-Tags: pedal
-
 Original name: Der 3Verb
 Type: Digital Spring Reverb
 

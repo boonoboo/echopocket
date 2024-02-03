@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: true
 ---
 
-Tags: pedal
-
 ## Quick Info
 
 - Original: Der Tremolo

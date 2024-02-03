@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: false
 ---
 
-Tags: pedal
-
 ## Info
 
 Original name: Tone City Angel Wing Chorus

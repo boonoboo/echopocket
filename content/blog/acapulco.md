@@ -5,8 +5,6 @@ tags: ["pedal"]
 draft: false
 ---
 
-Tags: pedal
-
 ## Quick Info
 
 Original: EarthQuaker Devices Acapulco Gold

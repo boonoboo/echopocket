@@ -3,4 +3,24 @@ languageCode = 'en-us'
 title = 'The echo pocket'
 theme = 'hugo-PaperMod'
 
-enableRobotsTXT = true
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archive
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: Tags
+          url: tags
+          weight: 10
