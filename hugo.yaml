@@ -1,6 +1,6 @@
 baseURL: "https://blog.boonoboo.xyz/"
 languageCode: "en-us"
-title: "The echo pocket"
+title: "Echopocket"
 theme: "hugo-PaperMod"
 
 enableEmoji: true
@@ -24,6 +24,11 @@ languages:
         - name: Tags
           url: tags
           weight: 10
+
+params:
+  homeInfoParams:
+    title: "Hi! :wave:"
+    content: Welcome to my space for expressing my thoughts.
 
 outputs:
   home:
