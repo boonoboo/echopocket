@@ -1,7 +1,7 @@
 ---
 title: "Data-O-Tone"
 date: 2022-08-27T22:00:00+02:00
-
+tags: ["pedal"]
 draft: false
 ---
 
