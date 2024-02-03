@@ -1,7 +1,7 @@
-baseURL = 'https://blog.boonoboo.xyz/'
-languageCode = 'en-us'
-title = 'The echo pocket'
-theme = 'hugo-PaperMod'
+baseURL: "https://blog.boonoboo.xyz/"
+languageCode: "en-us"
+title: "The echo pocket"
+theme: "hugo-PaperMod"
 
 enableEmoji: true
 
